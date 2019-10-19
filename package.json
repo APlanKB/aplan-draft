@@ -1,0 +1,19 @@
+{
+  "name": "aplan-draft",
+  "version": "1.0.0",
+  "description": "Testing linking aplan-draft to heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guitarhub786/aplan-draft.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guitarhub786/aplan-draft/issues"
+  },
+  "homepage": "https://github.com/guitarhub786/aplan-draft#readme"
+}
